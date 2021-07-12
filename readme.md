@@ -8,4 +8,13 @@ During this project I learned and applied a lot of Javascript. This included set
 To use the password generator- "click" generate password and follow instructions on the prompts. Use 'Ok' for yes or 'Cancel' for no.
 
 ## Screenshot
-![project]()
+![project](https://github.com/mrogers23458/password-generator/blob/master/assets/SSforreadme.jpg)
+[Deployed project available here](https://mrogers23458.github.io/password-generator/)
+
+## Credits
+
+Thank you to Treighton Mauldin for help with pseudo code layout and my tutor Aaron Centeno for help with logic.
+
+## License
+
+CC0 1.0 Universal
